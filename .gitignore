@@ -17,3 +17,5 @@ mono_crash.*.json
 
 # sentry
 .sentry-native
+
+builds/
